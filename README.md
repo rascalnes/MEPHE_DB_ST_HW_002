@@ -76,8 +76,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-логин/sql-data-analysis-projects.git
-   cd sql-data-analysis-projects
+   git clone https://github.com/rascalnes/MEPHE_DB_ST_HW_002
+   cd MEPHE_DB_ST_HW_002
    ```
    
 2. Откройте любой файл init_and_queries.sql в нужной папке.

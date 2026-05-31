@@ -104,7 +104,7 @@
 ## Структура репозитория
 
 ```text
-sql-data-analysis-projects/
+MEPHE_DB_ST_HW_002/
 │
 ├── README.md
 │
